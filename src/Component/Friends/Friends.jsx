@@ -14,6 +14,7 @@ const Friends = () => {
                     key={friend.id}
                     friend={friend}
                     ></Friend>)
+                    
                  }
             </div>
         </div>
