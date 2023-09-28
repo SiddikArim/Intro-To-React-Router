@@ -1,13 +1,18 @@
-.post{
+.div{
     border: 2px solid rgb(160, 96, 219);
     border-radius: 15px ;
     margin: 20px;
     padding: 20px;
 }
+
 .title{
     color: rgb(160, 96, 219);
     border: 2px dotted greenyellow;
     padding: 10px;
     border-radius: 15px;
     margin: 10px;
+}
+.id{
+    color: rgb(160, 96, 219);
+    font-weight: 700;
 }
